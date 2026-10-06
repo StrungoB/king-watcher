@@ -1,0 +1,119 @@
+{
+ "films": {
+  "Beast (2026)": {
+   "first_seen": null,
+   "shows": {
+    "29922": {
+     "label": "Martedì 06/10: 19:00",
+     "first_seen": null
+    },
+    "29930": {
+     "label": "Mercoledì 07/10: 19:00",
+     "first_seen": null
+    }
+   }
+  },
+  "Digger": {
+   "first_seen": null,
+   "shows": {
+    "29919": {
+     "label": "Martedì 06/10: 21:00",
+     "first_seen": null
+    },
+    "29933": {
+     "label": "Mercoledì 07/10: 21:00",
+     "first_seen": null
+    }
+   }
+  },
+  "Onslaught - Assalto Finale": {
+   "first_seen": null,
+   "shows": {
+    "29921": {
+     "label": "Martedì 06/10: 21:10",
+     "first_seen": null
+    },
+    "29927": {
+     "label": "Mercoledì 07/10: 19:00",
+     "first_seen": null
+    }
+   }
+  },
+  "Quasi Vera": {
+   "first_seen": null,
+   "shows": {
+    "29918": {
+     "label": "Martedì 06/10: 19:00",
+     "first_seen": null
+    }
+   }
+  },
+  "Verity": {
+   "first_seen": null,
+   "shows": {
+    "29923": {
+     "label": "Martedì 06/10: 21:15",
+     "first_seen": null
+    },
+    "29931": {
+     "label": "Mercoledì 07/10: 21:15",
+     "first_seen": null
+    }
+   }
+  },
+  "(O.V.) Queen Budapesten Budapest": {
+   "first_seen": null,
+   "shows": {
+    "29934": {
+     "label": "Mercoledì 07/10: 20:01",
+     "first_seen": null
+    }
+   }
+  },
+  "Avengers: Endgame Extra Infinity Vision": {
+   "first_seen": null,
+   "shows": {
+    "29916": {
+     "label": "Martedì 06/10: 20:15",
+     "first_seen": null
+    },
+    "29926": {
+     "label": "Mercoledì 07/10: 20:15",
+     "first_seen": null
+    }
+   }
+  },
+  "Heart Of The Beast": {
+   "first_seen": null,
+   "shows": {
+    "29917": {
+     "label": "Martedì 06/10: 21:20",
+     "first_seen": null
+    },
+    "29928": {
+     "label": "Mercoledì 07/10: 21:20",
+     "first_seen": null
+    }
+   }
+  },
+  "Naza": {
+   "first_seen": null,
+   "shows": {
+    "29925": {
+     "label": "Martedì 06/10: 19:10",
+     "first_seen": null
+    }
+   }
+  },
+  "Resident Evil (2026) - V.M.14": {
+   "first_seen": null,
+   "shows": {
+    "29920": {
+     "label": "Martedì 06/10: 19:15",
+     "first_seen": null
+    }
+   }
+  }
+ },
+ "keyword_alerted": false
+}
