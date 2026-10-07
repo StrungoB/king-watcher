@@ -1,4 +1,77 @@
 {
- "films": {},
+ "films": {
+  "Beast (2026)": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29930": {
+     "label": "Mercoledì 07/10: 19:00",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  },
+  "Digger": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29933": {
+     "label": "Mercoledì 07/10: 21:00",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  },
+  "Onslaught - Assalto Finale": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29927": {
+     "label": "Mercoledì 07/10: 19:00",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  },
+  "Verity": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29931": {
+     "label": "Mercoledì 07/10: 21:15",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  },
+  "(O.V.) Queen Budapesten Budapest": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29934": {
+     "label": "Mercoledì 07/10: 20:01",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  },
+  "Avengers: Endgame Extra Infinity Vision": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29926": {
+     "label": "Mercoledì 07/10: 20:15",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  },
+  "Heart Of The Beast": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29928": {
+     "label": "Mercoledì 07/10: 21:20",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  },
+  "Naza": {
+   "first_seen": "07/10/2026 00:48:23",
+   "shows": {
+    "29935": {
+     "label": "Mercoledì 07/10: 19:10",
+     "first_seen": "07/10/2026 00:48:23"
+    }
+   }
+  }
+ },
  "keyword_alerted": false
 }
