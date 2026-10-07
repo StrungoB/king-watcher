@@ -8,3 +8,4 @@
 [07/10/2026 00:48:25] Nuovo film: Avengers: Endgame Extra Infinity Vision | - Mercoledì 07/10: 20:15 | Rilevato il: 07/10/2026 00:48:23
 [07/10/2026 00:48:25] Nuovo film: Heart Of The Beast | - Mercoledì 07/10: 21:20 | Rilevato il: 07/10/2026 00:48:23
 [07/10/2026 00:48:26] Nuovo film: Naza | - Mercoledì 07/10: 19:10 | Rilevato il: 07/10/2026 00:48:23
+[07/10/2026 06:21:09] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
