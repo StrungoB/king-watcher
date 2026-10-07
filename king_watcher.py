@@ -197,6 +197,14 @@ def main():
     old_films = state["films"]
     alerts = []
 
+    # Protezione: se la pagina non contiene nessun film ma in passato ne conteneva,
+    # e' un'anomalia temporanea del sito. Non tocco lo stato (altrimenti al ritorno
+    # dei film arriverebbero decine di falsi "Nuovo film").
+    if not films and old_films and not first_run:
+        log("ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.")
+        print("Pagina senza film: ignorata.")
+        return
+
     # 1) parola chiave
     hit_pages = [n for n, h in kw_hits.items() if h]
     if hit_pages and not state.get("keyword_alerted"):
@@ -238,6 +246,22 @@ def main():
         elif added:
             log(f"NUOVI ORARI (non notificati): {title} -> " + "; ".join(added))
 
+    # Memoria: i film che non compaiono piu' restano nello stato per 60 giorni.
+    # Se ricompaiono non sono "nuovi". Poi vengono dimenticati.
+    for title, entry in new_state_films.items():
+        entry["last_seen"] = ts
+    for title, entry in old_films.items():
+        if title in new_state_films:
+            continue
+        last = entry.get("last_seen")
+        try:
+            age = (datetime.now() - datetime.strptime(last, "%d/%m/%Y %H:%M:%S")).days if last else 0
+        except Exception:
+            age = 0
+        if not last:
+            entry["last_seen"] = ts  # stato vecchio senza last_seen: parte da ora
+        if age <= 60:
+            new_state_films[title] = entry
     state["films"] = new_state_films
 
     if first_run:
