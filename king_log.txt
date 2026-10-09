@@ -22,3 +22,4 @@
 [07/10/2026 07:45:57] Nuovi orari: Verity | - Giovedì 08/10: 21:15 | - Venerdì 09/10: 21:15 | - Sabato 10/10: 17:40 22:20 | - Sabato 10/10: 17:40 22:20 | - Domenica 11/10: 16:40 21:20 | - Domenica 11/10: 16:40 21:20 | - Lunedì 12/10: 21:15 | - Martedì 13/10: 21:15 | - Mercoledì 14/10: 21:15 | Rilevato il: 07/10/2026 07:45:53
 [08/10/2026 21:36:28] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
 [09/10/2026 02:46:12] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
+[09/10/2026 08:56:10] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
