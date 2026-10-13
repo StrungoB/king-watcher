@@ -28,3 +28,4 @@
 [11/10/2026 02:00:13] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
 [12/10/2026 07:36:03] Nuovo film: SI RICORDA CHE PER GLI EVENTI NON SONO VALIDE LE KING CARD E LE TESSERE OMAGGIO | (orari non ancora pubblicati) | Rilevato il: 12/10/2026 07:36:03
 [12/10/2026 15:40:45] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
+[13/10/2026 10:16:49] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
