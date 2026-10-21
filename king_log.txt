@@ -56,3 +56,4 @@
 [21/10/2026 08:43:45] Nuovo film: Shaun Vita Da Pecora - Op. Z.U.C.C.A. | - Mercoledì 28/10: 19:10 | Rilevato il: 21/10/2026 08:43:40
 [21/10/2026 08:43:45] Nuovo film: Taddeo L'Esploratore E La Lampada Magica | - Sabato 24/10: 15:35 | - Domenica 25/10: 14:35 | Rilevato il: 21/10/2026 08:43:40
 [21/10/2026 08:43:46] Nuovo film: Wildwood - I Segreti Del Bosco Proibito | - Giovedì 22/10: 18:50 | - Venerdì 23/10: 18:50 | - Sabato 24/10: 17:00 19:40 | - Sabato 24/10: 17:00 19:40 | - Domenica 25/10: 16:00 18:40 | - Domenica 25/10: 16:00 18:40 | - Lunedì 26/10: 18:50 | - Martedì 27/10: 18:50 | - Mercoledì 28/10: 18:50 | Rilevato il: 21/10/2026 08:43:40
+[21/10/2026 16:18:22] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
