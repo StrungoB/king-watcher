@@ -65,3 +65,4 @@
 [21/10/2026 21:08:25] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
 [23/10/2026 00:40:49] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
 [23/10/2026 09:54:17] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
+[24/10/2026 00:43:19] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
