@@ -67,3 +67,4 @@
 [23/10/2026 09:54:17] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
 [24/10/2026 00:43:19] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
 [24/10/2026 02:55:23] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
+[25/10/2026 16:41:20] Nuovi orari: Whalefall - Nella Balena | - Lunedì 26/10: 21:20 | - Martedì 27/10: 21:20 | - Mercoledì 28/10: 21:20 | Rilevato il: 25/10/2026 16:41:20
