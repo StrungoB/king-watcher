@@ -85,3 +85,4 @@
 [28/10/2026 17:39:18] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
 [28/10/2026 20:33:46] Nuovo film: It Ends | - Mercoledì 28/10: 21:00 | - Giovedì 29/10: 21:10 | - Venerdì 30/10: 21:10 | - Sabato 31/10: 22:20 | - Domenica 01/11: 21:20 | - Lunedì 02/11: 21:10 | - Martedì 03/11: 21:10 | - Mercoledì 04/11: 21:10 | Rilevato il: 28/10/2026 20:33:46
 [30/10/2026 13:23:52] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
+[31/10/2026 10:15:15] ATTENZIONE: pagina senza film (anomalia del sito?), controllo ignorato.
