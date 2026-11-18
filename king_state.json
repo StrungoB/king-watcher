@@ -3,10 +3,6 @@
   "Come Rapinare Una Banca": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30427": {
-     "label": "Martedì 17/11: 21:15",
-     "first_seen": "10/11/2026 23:31:01"
-    },
     "30495": {
      "label": "Mercoledì 18/11: 21:15",
      "first_seen": "10/11/2026 23:31:01"
@@ -40,21 +36,17 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Godzilla Minus Zero": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30443": {
-     "label": "Martedì 17/11: 21:00",
-     "first_seen": "10/11/2026 23:31:01"
-    },
     "30499": {
      "label": "Mercoledì 18/11: 21:00",
      "first_seen": "10/11/2026 23:31:01"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Il Rumore Delle Cose Nuove": {
    "first_seen": "10/11/2026 23:31:01",
@@ -108,15 +100,11 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Scrooge E Gli Spiriti Del Natale": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30419": {
-     "label": "Martedì 17/11: 19:00 21:25",
-     "first_seen": "10/11/2026 23:31:01"
-    },
     "30492": {
      "label": "Mercoledì 18/11: 19:00 21:25",
      "first_seen": "10/11/2026 23:31:01"
@@ -190,7 +178,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Un Weekend Artificiale": {
    "first_seen": "10/11/2026 23:31:01",
@@ -236,7 +224,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Dio Ride": {
    "first_seen": "27/10/2026 20:03:44",
@@ -270,7 +258,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Hunger Games - L'Alba Sulla Mietitura": {
    "first_seen": "17/11/2026 20:04:02",
@@ -328,7 +316,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Il Gatto Col Cappello": {
    "first_seen": "03/11/2026 18:04:09",
@@ -342,7 +330,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "La Storia Infinita (Riedizione)": {
    "first_seen": "10/11/2026 23:31:01",
@@ -352,7 +340,7 @@
      "first_seen": "10/11/2026 23:31:01"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Ramayana: La Nascita Di Una Leggenda": {
    "first_seen": "17/11/2026 20:04:02",
@@ -374,7 +362,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Se Domani Non Torno": {
    "first_seen": "03/11/2026 18:04:09",
@@ -428,7 +416,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Ti Presento I Fotter - Anteprima": {
    "first_seen": "17/11/2026 20:04:02",
@@ -438,27 +426,23 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "17/11/2026 20:04:02"
+   "last_seen": "18/11/2026 02:19:57"
+  },
+  "Wild Horse Nine": {
+   "first_seen": "03/11/2026 18:04:09",
+   "shows": {
+    "30501": {
+     "label": "Mercoledì 18/11: 21:20",
+     "first_seen": "10/11/2026 23:31:01"
+    }
+   },
+   "last_seen": "18/11/2026 02:19:57"
   },
   "Un Tranquillo Funerale Di Famiglia": {
    "first_seen": "27/10/2026 20:03:44",
    "shows": {
     "30435": {
      "label": "Martedì 17/11: 21:20",
-     "first_seen": "10/11/2026 23:31:01"
-    }
-   },
-   "last_seen": "17/11/2026 20:04:02"
-  },
-  "Wild Horse Nine": {
-   "first_seen": "03/11/2026 18:04:09",
-   "shows": {
-    "30451": {
-     "label": "Martedì 17/11: 21:20",
-     "first_seen": "10/11/2026 23:31:01"
-    },
-    "30501": {
-     "label": "Mercoledì 18/11: 21:20",
      "first_seen": "10/11/2026 23:31:01"
     }
    },
