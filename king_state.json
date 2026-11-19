@@ -1,22 +1,8 @@
 {
  "films": {
-  "Godzilla Minus Zero": {
-   "first_seen": "10/11/2026 23:31:01",
-   "shows": {
-    "30499": {
-     "label": "Mercoledì 18/11: 21:00",
-     "first_seen": "10/11/2026 23:31:01"
-    }
-   },
-   "last_seen": "18/11/2026 18:53:41"
-  },
   "Come Rapinare Una Banca": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30495": {
-     "label": "Mercoledì 18/11: 21:15",
-     "first_seen": "10/11/2026 23:31:01"
-    },
     "30526": {
      "label": "Giovedì 19/11: 21:15",
      "first_seen": "17/11/2026 20:04:02"
@@ -46,7 +32,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Dio Ride": {
    "first_seen": "27/10/2026 20:03:44",
@@ -76,7 +62,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Hunger Games - L'Alba Sulla Mietitura": {
    "first_seen": "17/11/2026 20:04:02",
@@ -134,7 +120,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Il Gatto Col Cappello": {
    "first_seen": "03/11/2026 18:04:09",
@@ -148,7 +134,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Il Rumore Delle Cose Nuove": {
    "first_seen": "10/11/2026 23:31:01",
@@ -198,7 +184,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Ramayana: La Nascita Di Una Leggenda": {
    "first_seen": "17/11/2026 20:04:02",
@@ -220,15 +206,11 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Scrooge E Gli Spiriti Del Natale": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30493": {
-     "label": "Mercoledì 18/11: 19:00 21:25",
-     "first_seen": "10/11/2026 23:31:01"
-    },
     "30516": {
      "label": "Giovedì 19/11: 19:00 21:20",
      "first_seen": "17/11/2026 20:04:02"
@@ -294,7 +276,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Se Domani Non Torno": {
    "first_seen": "03/11/2026 18:04:09",
@@ -344,7 +326,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Ti Presento I Fotter - Anteprima": {
    "first_seen": "17/11/2026 20:04:02",
@@ -354,15 +336,11 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "18/11/2026 18:53:41"
+   "last_seen": "19/11/2026 00:48:58"
   },
   "Un Weekend Artificiale": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30497": {
-     "label": "Mercoledì 18/11: 21:20",
-     "first_seen": "10/11/2026 23:31:01"
-    },
     "30512": {
      "label": "Giovedì 19/11: 18:45",
      "first_seen": "17/11/2026 20:04:02"
@@ -398,6 +376,16 @@
     "30548": {
      "label": "Mercoledì 25/11: 18:45",
      "first_seen": "17/11/2026 20:04:02"
+    }
+   },
+   "last_seen": "19/11/2026 00:48:58"
+  },
+  "Godzilla Minus Zero": {
+   "first_seen": "10/11/2026 23:31:01",
+   "shows": {
+    "30499": {
+     "label": "Mercoledì 18/11: 21:00",
+     "first_seen": "10/11/2026 23:31:01"
     }
    },
    "last_seen": "18/11/2026 18:53:41"
