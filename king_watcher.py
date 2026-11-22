@@ -2,6 +2,7 @@
 """
 Multisala King (Lonato) - watcher
 Ti avvisa quando:
+
   1) compare una parola chiave (es. "doomsday") in programmazione / prossimamente / eventi
   2) compare un NUOVO film in programmazione
   3) compaiono NUOVI orari/date (nuove proiezioni)
