@@ -3,10 +3,6 @@
   "Hunger Games - L'Alba Sulla Mietitura": {
    "first_seen": "17/11/2026 20:04:02",
    "shows": {
-    "30532": {
-     "label": "Lunedì 23/11: 20:30",
-     "first_seen": "17/11/2026 20:04:02"
-    },
     "30533": {
      "label": "Martedì 24/11: 20:30",
      "first_seen": "17/11/2026 20:04:02"
@@ -16,57 +12,41 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Ramayana: La Nascita Di Una Leggenda": {
    "first_seen": "17/11/2026 20:04:02",
    "shows": {
-    "30546": {
-     "label": "Lunedì 23/11: 20:15",
-     "first_seen": "23/11/2026 12:22:21"
-    },
     "30547": {
      "label": "Martedì 24/11: 20:15",
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Come Rapinare Una Banca": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30544": {
-     "label": "Lunedì 23/11: 21:15",
-     "first_seen": "17/11/2026 20:04:02"
-    },
     "30545": {
      "label": "Martedì 24/11: 21:15",
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Dio Ride": {
    "first_seen": "27/10/2026 20:03:44",
    "shows": {
-    "30540": {
-     "label": "Lunedì 23/11: 21:15",
-     "first_seen": "17/11/2026 20:04:02"
-    },
     "30541": {
      "label": "Martedì 24/11: 21:15",
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Il Rumore Delle Cose Nuove": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30542": {
-     "label": "Lunedì 23/11: 19:00",
-     "first_seen": "17/11/2026 20:04:02"
-    },
     "30543": {
      "label": "Martedì 24/11: 19:00",
      "first_seen": "17/11/2026 20:04:02"
@@ -76,19 +56,11 @@
      "first_seen": "21/11/2026 16:57:03"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Scrooge E Gli Spiriti Del Natale": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30534": {
-     "label": "Lunedì 23/11: 19:00 21:20",
-     "first_seen": "17/11/2026 20:04:02"
-    },
-    "30536": {
-     "label": "Lunedì 23/11: 19:00 21:20",
-     "first_seen": "17/11/2026 20:04:02"
-    },
     "30535": {
      "label": "Martedì 24/11: 19:00 21:20",
      "first_seen": "17/11/2026 20:04:02"
@@ -106,15 +78,11 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Se Domani Non Torno": {
    "first_seen": "03/11/2026 18:04:09",
    "shows": {
-    "30538": {
-     "label": "Lunedì 23/11: 19:00",
-     "first_seen": "17/11/2026 20:04:02"
-    },
     "30539": {
      "label": "Martedì 24/11: 19:00",
      "first_seen": "17/11/2026 20:04:02"
@@ -124,7 +92,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Ti Presento I Fotter - Anteprima": {
    "first_seen": "17/11/2026 20:04:02",
@@ -134,15 +102,11 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Un Weekend Artificiale": {
    "first_seen": "10/11/2026 23:31:01",
    "shows": {
-    "30530": {
-     "label": "Lunedì 23/11: 18:45",
-     "first_seen": "17/11/2026 20:04:02"
-    },
     "30531": {
      "label": "Martedì 24/11: 18:45",
      "first_seen": "17/11/2026 20:04:02"
@@ -152,7 +116,7 @@
      "first_seen": "17/11/2026 20:04:02"
     }
    },
-   "last_seen": "23/11/2026 12:22:21"
+   "last_seen": "24/11/2026 00:06:21"
   },
   "Il Gatto Col Cappello": {
    "first_seen": "03/11/2026 18:04:09",
